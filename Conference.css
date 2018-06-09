@@ -1,0 +1,51 @@
+ul{
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+				background-color: #333333;
+			}
+
+			li{
+				float: left;
+			}
+
+			li a {
+				display: block;
+				color: white;
+				text-align: center;
+				padding: 16px;;
+				text-decoration: none;
+                }
+.active{
+    color: red;
+    text-decoration: underline;
+    background-color: yellow;
+}
+/*li a:visited{
+    color: red;
+    text-decoration: none;
+    background-color: #222222;
+}*/
+li a:hover{
+    color: blue;
+    text-decoration: underline;
+    background-color:#111111 ;
+}
+body{
+    background-color: lawngreen;
+    color: white;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    font-size: 50p;
+    font-display: block;
+    font-family: cursive;
+    color: 
+    font-size: bol
+        
+}
+
+
+
+
